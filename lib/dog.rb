@@ -1,4 +1,4 @@
-CREATE TABLE dog
+CREATE TABLE Dog
 (
 id INT
 name TEXT
