@@ -1,1 +1,7 @@
-CREATE 
+CREATE TABLE dog
+(
+id INT
+surname TEXT
+number INT
+position TEXT
+);
